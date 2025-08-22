@@ -27,7 +27,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/DEVA_MUSICBOT"),
-            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/Nishumoviebot")
+            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/VeronMovieBot")
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
@@ -39,4 +39,5 @@ def private_panel(_):
         ],
     ]
     return buttons
+
 
