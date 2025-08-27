@@ -24,7 +24,8 @@ spotipy
 tgcrypto
 unidecode
 uvloop
-yt-dlp --update-to master
+yt-dlp>=2025.6.30
 youtube-search
 youtube-search-python
+
 
